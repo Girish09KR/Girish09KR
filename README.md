@@ -1,6 +1,8 @@
-[![MasterHead](https://www.shutterstock.com/image-illustration/cartoon-male-trader-financial-data-analyst-1140606680)]
+
 <h1 align="center">Hi 👋, I'm KR Girish</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+(img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-illustration/cartoon-male-trader-financial-data-600w-1140606680.jpg")
+
 
 - 🔭 I’m currently working on **SQL,MS-Excel,Python and Tableau**
 
