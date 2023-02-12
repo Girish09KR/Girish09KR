@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/730/1*Hu4TWEt6o3iAWeqxqklbZg.jpeg)(https://github.com/Girish09KR/Girish09KR)
+[![MasterHead](https://www.shutterstock.com/image-illustration/cartoon-male-trader-financial-data-analyst-1140606680)
 <h1 align="center">Hi 👋, I'm KR Girish</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
